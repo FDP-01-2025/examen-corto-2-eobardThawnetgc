@@ -104,7 +104,7 @@ int main() {
         break;
         //ninguno de los casos
         default:
-            cout << "El numero ingresado no es valido";
+            cout << "El numero ingresado no es valido ";
         break;
     }
 
